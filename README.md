@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, Data Science and Ontologies
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on twitter: @allhnr or instagram: @hnralmeida
--
+
 <img src="computer-illustration.png" align="left" width="200px"/>
 Name: Henrique Almeida de Oliveira
 <br>
