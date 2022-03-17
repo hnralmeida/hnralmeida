@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on twitter: @allhnr or instagram: @hnralmeida
 -
-<img src="Logo.png" align="left" width="200px"/>
+<img src="computer-illustration.png" align="left" width="200px"/>
 Name: Henrique Almeida de Oliveira
 <br>
 OS: Windows/Ubuntu 18.04 
