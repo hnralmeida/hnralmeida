@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hnralmeida
 - 👀 I’m interested in Robotics, Data Science and Ontologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 You can reach me on twitter: @allhnr or instagram: @hnralmeida
 
 <img src="computer-illustration.png" align="left" width="200px"/>
@@ -16,7 +16,7 @@ Projetos: Titãs da Robótica
 <br>
 Linguagem-Favorita: Python :)
 <br>
-Aprendendo: Always C, Python and futher javascript
+Linguagens mais praticadas: C, Python and Java
 
 <!---
 hnralmeida/hnralmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
