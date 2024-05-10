@@ -1,24 +1,49 @@
-- 👋 Hi, I’m @hnralmeida
+# WHOAMI
+
+- 👋 Hi, I’m Henrique Almeida de Oliveira
 - 👀 I’m interested in Robotics, Data Science and Ontologies
-- 🌱 I’m currently learning Java
-- 📫 You can reach me on twitter: @allhnr or instagram: @hnralmeida
+- 🌱 I’m currently learning Java and Typescript
 
-<img src="computer-illustration.png" align="left" width="200px"/>
-Name: Henrique Almeida de Oliveira
-<br>
-OS: Windows/Ubuntu 18.04 
-<br>
-Location: Brasil
-<br>
-Hobbies: Robotics, RPG and Music
-<br>
-Projetos: Titãs da Robótica
-<br>
-Linguagem-Favorita: Python :)
-<br>
-Linguagens mais praticadas: C, Python and Java
+## 📫 Where you can reach me?
 
-<!---
-hnralmeida/hnralmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div> 
+    <a href="https://instagram.com/hnralmeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> <a href = "mailto:devhnralmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a> <a href="https://www.linkedin.com/in/hnralmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+</div>
+
+<br>
+
+## 💻 Tech Stack:
+
+🛠️ Languages:
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+🚀 Frameworks: 
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+
+## 🎨 Other Interests:
+
+🎮 Exploring UI/UX design
+<br>
+🎲 Passionate about RPG
+<br>
+🎵 Enjoying Music
+<br>
+🌍 Operating System: Windows/Ubuntu 18.04
+<br>
+
+## 📚 On My Learning Radar:
+🌟 PHP
+<br>
+🌟 C++
+<br>
+🌟 Go
